@@ -21,26 +21,26 @@
 
 <h3> Professional Experience </h3>
 
-<p> <ul> we'll see! I'm not a professional yet! </ul> </p>
+<p> <ul> <li> we'll see! I'm not a professional yet! </li> </ul> </p>
 
 <h3> Skills </h3>
 
 <p> <ul> 
-	Experience using Microsoft office
+	<li> Experience using Microsoft office </li>
 
-	Working ability to use C++ and C programming languages
+	<li> Working ability to use C++ and C programming languages </li>
 
-	Working ability to use HTML Markup Language
+	<li> Working ability to use HTML Markup Language </li>
 
-	Working ability to speak, write, and read Spanish
+	<li> Working ability to speak, write, and read Spanish </li>
 
-	Basic ability to speak, write, and read Mandarin Chinese
+	<li> Basic ability to speak, write, and read Mandarin Chinese </li>
 	</ul>
 </p>
 
 <h3> Relevant Activities </h3>
 
-<p> <ul> unknown, depends on what it's relevant to! </ul> </p>
+<p> <ul> <li> unknown, depends on what it's relevant to! </ul> </p> </li>
 
 <p> <a href ="http://ebisho02.github.io/"> Return to home! </a> </p>
 

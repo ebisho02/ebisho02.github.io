@@ -2,15 +2,19 @@
 <html>
 
 <head> Biography 
-	<meta charset="utf-8">
-	<link href = "style_assignment_1.css" rel = "stylesheet"/>
+	<link rel = "stylesheet" type = "text/css" href = 
+						   "style_assignment_1.css" />
 </head>
 
 <body>
 
 <h1> About me </h1>
 
-<h2> My name is Elizabeth and I like dogs. That's all for now! </h2>
+<h2> My name is Elizabeth and I like dogs. That's all for now! 
+	<br>
+	<br>
+	<br>
+</h2>
 
 <p> <a href ="http://ebisho02.github.io/"> Return to home! </a> </p>
 
