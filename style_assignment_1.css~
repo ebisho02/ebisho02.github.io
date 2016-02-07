@@ -6,11 +6,11 @@ h1 {
 	border-style: dashed;
 	marginleft: 20%;
 	marginright: 20%;
+	marginup: 
 }
 h2 {
 	text-align: center;
 	font-size: 15px;
-	border-style: dashed;
 	marginleft: 20%;
 	marginright: 20%;
 }
@@ -18,4 +18,9 @@ p {
 	font-size: 12px;
 	marginleft: 10%;
 	marginright: 10%;
+}
+
+img.resize{
+    width:200px; 
+    height: 400px;
 }
