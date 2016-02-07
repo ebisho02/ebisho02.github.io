@@ -12,12 +12,12 @@
 
 <h3> Education </h3>
 
-<p> <ul> Student, Tufts University, Class of 2018 </ul></p>
+<p> <ul> <li> Student, Tufts University, Class of 2018 </li> </ul></p>
 
 <h3> Relevant Coursework </h3>
 
-<p> <ul> Currently studying computer and web programming. 
-    Also studying Mandarin Chinese. </ul></p>
+<p> <ul> <li> Currently studying computer and web programming. 
+    Also studying Mandarin Chinese. </li> </ul></p>
 
 <h3> Professional Experience </h3>
 
@@ -41,6 +41,8 @@
 <h3> Relevant Activities </h3>
 
 <p> <ul> unknown, depends on what it's relevant to! </ul> </p>
+
+<p> <a href ="http://ebisho02.github.io/"> Return to home! </a> </p>
 
 </body>
 </html>

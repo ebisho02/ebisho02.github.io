@@ -20,10 +20,15 @@ h3 {
 }
 p {
 	font-size: 12px;
-	marginleft: 10%;
-	marginright: 10%;
+	marginleft: 20%;
+	marginright: 20%;
 }
 
 ul {
 	list-style-type: circle;
 }
+
+/* TO DO */
+/* classes */
+/* bullet points */
+/* redirect link from cs.tufts.edu/ */
