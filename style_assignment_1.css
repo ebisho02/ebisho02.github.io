@@ -22,20 +22,20 @@ h3 {
 }
 p {
 	font-size: 15px;
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
 }
 
 ul {
 	list-style-type: circle;
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 17%;
+	margin-right: 17%;
 	font-size: 15px;
 }
 
 /* TO DO */
 /* classes */
-/* bullet points */
 /* redirect link from cs.tufts.edu/ */
 /* README.md */
 /* html and css files pass the tests */
