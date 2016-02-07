@@ -4,16 +4,20 @@ h1 {
 	text-align: center;
 	font-size: 20px;
 	border-style: dashed;
-	marginleft: 20%;
-	marginright: 20%;
-	marginup: 100px;
-	margindown: 100px;
+	marginleft: 15%;
+	marginright: 15%;
+	color: red;
 }
 h2 {
 	text-align: center;
 	font-size: 15px;
-	marginleft: 20%;
-	marginright: 20%;
+	marginleft: 15%;
+	marginright: 15%;
+}
+h3 {
+	font-size: 15px;
+	marginleft: 15%;
+	marginright: 15%;
 }
 p {
 	font-size: 12px;
@@ -21,7 +25,6 @@ p {
 	marginright: 10%;
 }
 
-img.resize{
-    width:200px; 
-    height: 400px;
+ul {
+	list-style-type: circle;
 }
