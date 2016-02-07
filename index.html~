@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
 
-<head> Index </head>
+<head> Index 
+	<meta charset="utf-8">
+	<link href = "style_assignment_1.css" rel = "stylesheet"/>
+</head>
 
 <body>
 
@@ -12,9 +15,11 @@
 <p><img src = "my_dog.jpg" alt = "Photo of my dog" 
 				height = "50" width = "50" /></p>
 
-<a href ="http://www.cs.tufts/edu/~ebisho02">My resume!</a>
+<a href ="http://ebisho02.github.io/resume">My resume!</a>
 
-<a href ="http://www.cs.tufts/edu/~ebisho02">About me!</a>
+<a href ="http://ebisho02.github.io/bio">About me!</a>
+
+</p>
 
 </body>
 </html>

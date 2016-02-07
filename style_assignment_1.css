@@ -19,3 +19,8 @@ p {
 	marginleft: 10%;
 	marginright: 10%;
 }
+
+img.resize{
+    width:100px; 
+    height: 100px;
+}
