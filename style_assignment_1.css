@@ -21,13 +21,16 @@ h3 {
 	margin-right: 15%;
 }
 p {
-	font-size: 12px;
+	font-size: 15px;
 	margin-left: 20%;
 	margin-right: 20%;
 }
 
 ul {
 	list-style-type: circle;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-size: 15px;
 }
 
 /* TO DO */
