@@ -1,5 +1,8 @@
 /* First Style Sheet! */
 
+.img-circle {
+	border-radius: 50%;
+}
 h1 {
 	text-align: center;
 	font-size: 20px;
@@ -20,6 +23,9 @@ h3 {
 	margin-left: 15%;
 	margin-right: 15%;
 }
+body {
+	background-image: background.jpg;
+}
 p {
 	font-size: 15px;
 	margin-left: 15%;
@@ -33,7 +39,3 @@ ul {
 	margin-right: 17%;
 	font-size: 15px;
 }
-
-/* TO DO */
-/* classes */
-/* redirect link from cs.tufts.edu/ */

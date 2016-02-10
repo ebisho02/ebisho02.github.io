@@ -13,3 +13,6 @@ Friends that helped me through:
 	
 Hours spent:
 	- 6 hours
+	
+Other credits:
+	- All photos used were taken by me
