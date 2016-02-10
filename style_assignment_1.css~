@@ -24,7 +24,7 @@ h3 {
 	margin-right: 15%;
 }
 body {
-	background-image: background.jpg;
+	background-image: "background.jpg";
 }
 p {
 	font-size: 15px;
