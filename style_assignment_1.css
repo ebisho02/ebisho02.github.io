@@ -1,4 +1,4 @@
-/* First Style Sheet! */
+c/* First Style Sheet! */
 
 h1 {
 	text-align: center;
@@ -25,6 +25,10 @@ p {
 	margin-left: 15%;
 	margin-right: 15%;
 	text-align: center;
+}
+
+.img-circle {
+	border-radius: 50%;
 }
 
 ul {

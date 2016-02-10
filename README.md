@@ -2,13 +2,14 @@
 
 README.md
 by: Elizabeth Bishop
-last modified: February 7,2016
+last modified: February 9,2016
 
 Implementation:
-	- The redirect from my cs.tufts.edu page does not work yet
+	- As far as I know, everything is implemented correctly
 	
 Friends that helped me through:
 	- Anna Kasagawa
+	- Tony Nguyen
 	
 Hours spent:
-	- 5 hours
+	- 6 hours
